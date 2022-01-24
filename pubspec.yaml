@@ -1,12 +1,12 @@
 name: on_image_matrix
 description: Flutter Package used to 'edit' basics aspects [Brightness, Contrast, Saturation, etc...] from a widget or image.
-version: 1.0.0
-homepage: https://github.com/LucasPJS/on_image_matrix
+version: 1.0.0+1
+homepage: https://github.com/LucJosin/on_image_matrix
 # pub.dev: https://pub.dev/packages/on_image_matrix
 # ========
 # author: Lucas Josino
-# github: https://github.com/LucasPJS
-# website: https://lucasjosino.com/
+# github: https://github.com/LucJosin
+# website: https://www.lucasjosino.com/
 
 environment:
   sdk: ">=2.12.0 <3.0.0"

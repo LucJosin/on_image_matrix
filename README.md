@@ -7,8 +7,8 @@
 
 ## Help:
 
-**Any problem? [Issues](https://github.com/LucasPJS/on_image_matrix/issues)** <br>
-**Any suggestion? [Pull request](https://github.com/LucasPJS/on_image_matrix/pulls)**
+**Any problem? [Issues](https://github.com/LucJosin/on_image_matrix/issues)** <br>
+**Any suggestion? [Pull request](https://github.com/LucJosin/on_image_matrix/pulls)**
 
 ### Translations:
 
@@ -29,7 +29,7 @@ NOTE: Feel free to help with readme translations
 Add the following code to your `pubspec.yaml`:
 ```yaml
 dependencies:
-  on_image_matrix: ^1.0.0
+  on_image_matrix: ^1.0.0+1
 ```
 
 ## TODO:
@@ -124,6 +124,6 @@ See more:
 
 ## LICENSE:
 
-* [LICENSE](https://github.com/LucasPJS/on_image_matrix/blob/main/LICENSE)
+* [LICENSE](https://github.com/LucJosin/on_image_matrix/blob/main/LICENSE)
 
 > * [Back to top](#on_image_matrix)

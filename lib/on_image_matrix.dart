@@ -1,3 +1,17 @@
+/*
+=============
+Author: Lucas Josino
+Github: https://github.com/LucJosin
+Website: https://www.lucasjosino.com/
+=============
+Plugin/Id: on_image_matrix#5
+Homepage: https://github.com/LucJosin/on_image_matrix
+Pub: https://pub.dev/packages/on_image_matrix
+License: https://github.com/LucJosin/on_image_matrix/blob/main/LICENSE
+Copyright: © 2021, Lucas Josino. All rights reserved.
+=============
+*/
+
 library on_image_matrix;
 
 // Dart
